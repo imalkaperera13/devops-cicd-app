@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: devops-cicd-app
-        image: imalkaprojectacr2.azurecr.io/devops-cicd-app:v1
+        image: imalkaprojectacr2.azurecr.io/devops-cicd-app:latest
         ports:
         - containerPort: 8080
 ---
