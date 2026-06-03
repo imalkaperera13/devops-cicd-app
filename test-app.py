@@ -1,3 +1,3 @@
 def test_simple():
-    assert  1 + 1 == 3
+    assert  1 + 1 == 2
     print("Test Passed")
